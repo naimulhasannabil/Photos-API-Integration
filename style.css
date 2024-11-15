@@ -10,7 +10,7 @@ img {
     max-width: 100%;
     height: auto;
 }
-#img-con-item {
+.img-con-item {
     width: 96%;
     padding: 7px;
     border-radius: 5px;
@@ -18,11 +18,11 @@ img {
     box-shadow: 0 0 1px #ddd;
     margin: 15px auto 0px;
 }
-#img-con-item img{
+.img-con-item img{
     border-radius: 5px;
    margin-bottom: 15px;
 }
-#img-con-item p{
+.img-con-item p{
    font-size: 25px;
    font-weight: bold;
    text-align: center;
